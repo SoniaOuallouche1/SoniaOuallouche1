@@ -2,7 +2,7 @@
 
 ### Welcome to my space
 
-I'm currently studying to have my diploma to work on web development.
+I'm currently studying to have my degree to work on web development.
 After almost a year of learning new things I didn't even know about before, I learned so much methods that improved my stack to be a great developer and I would like to share it!
 
 Let me explain you what I learned, how I practised and why I can say, now, that I'm a real developer.
